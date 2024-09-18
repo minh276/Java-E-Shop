@@ -1,0 +1,14 @@
+KundenID;Name;Email;Benutzername;Passwort;Adresse
+1;max Mustermann;erika@example.com;max;123;Beispielweg 2
+2;messi;messi@gmail.com;messi;123;mls
+3;leo;leoy;leo;123;das
+4;musiala;m;musiala;123;musiala
+5;Minh;minh@gmail.com;minh;123;giehler
+6;Saqeef;Saqeef@gmail.com;Saqeef;123;bremen
+7;Hiwa;Hiwa@gmail.com;hiwa;123;bremen
+8;Mbappe;Mbappe@gmail.com;Mbappe;123;Paris
+9;sane;sane@gmail.com;sane;123;bremne
+10;olaf;olaf@gmail.com;Olaf;123;deutschland
+11;olaf;olaf;olaf;123;deutsch
+12;cruyff;cruyff;cruyff;123;niederlande
+13;peter;peter@@gmail.com;peter;123;bremen

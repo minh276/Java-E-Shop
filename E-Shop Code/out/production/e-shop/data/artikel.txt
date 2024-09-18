@@ -1,0 +1,7 @@
+ArtikelID;Name;Farbe;Groesse;Preis;Bestand;Packungsgroesse
+1;Airforce 1;weiss;42.0;120.0;209
+2;Samba;gelb;45.0;80.0;139
+3;Tns;rot;47.0;190.0;110
+4;Gazelle;schwarz;43.0;70.0;190
+5;Schlappen;schwarz;41.0;50.0;300;2
+6;Airmax;schwarz;49.0;120.0;35

@@ -1,0 +1,5 @@
+MitarbeiterID;Name;Email;Benutzername;Passwort
+1;Admin1;admin1@gmail.com;admin1;123
+2;minh;minh@gmail.com;minh;123
+3;hiwa;hiwa@gmail.com;hiwa;123
+4;saqeef;saqeef@gmail.com;saqeef;123
